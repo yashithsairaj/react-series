@@ -1,6 +1,6 @@
 
 
-# React Router
+# Simple React Router Project
 
 A brief description of what this project does. 
 -
@@ -51,12 +51,17 @@ We'll be building a simple website with multiple "pages" (components) and naviga
 
 ### Project Setup
 
-Let's set up a new React project using `create-react-app` and install necessary dependencies, including React Router.
+Let's set up a new React project using `create vite@latest` and install necessary dependencies, including React Router.
 
 ```bash
 npm init vite@latest 07-react-router -- --template react
 cd 07-react-router
 npm install react-router-dom
+```
+installing Tailwind CSS
+```bash
+npm install -D tailwindcss postcss autoprefixer
+npx tailwindcss init -p
 ```
 ## API used
 
