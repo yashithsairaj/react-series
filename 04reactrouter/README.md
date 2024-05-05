@@ -54,7 +54,7 @@ We'll be building a simple website with multiple "pages" (components) and naviga
 Let's set up a new React project using `create-react-app` and install necessary dependencies, including React Router.
 
 ```bash
-npm create-react-app 07-react-router
+npm init vite@latest 07-react-router -- --template react
 cd 07-react-router
 npm install react-router-dom
 ```
