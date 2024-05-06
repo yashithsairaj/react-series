@@ -56,6 +56,7 @@ Let's set up a new React project using `create vite@latest` and install necessar
 ```bash
 npm init vite@latest 07-react-router -- --template react
 cd 07-react-router
+npm install
 npm install react-router-dom
 ```
 installing Tailwind CSS

@@ -31,6 +31,7 @@ To begin, let's set up the project and dive into the development process:
 ```bash
 npm init vite@latest 03currencyconverter -- --template react
 cd 03currencyconverter
+npm install
 ```
 -installing Tailwind CSS
 ```bash

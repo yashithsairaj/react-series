@@ -21,6 +21,7 @@ To begin, let's set up the project and dive into the development process:
 ```bash
 npm init vite@latest 01bgchanger -- --template react
 cd 01bgchanger
+npm install
 ```
 
 -installing Tailwind CSS
@@ -28,7 +29,7 @@ cd 01bgchanger
 ```bash
 npm install -D tailwindcss postcss autoprefixer
 npx tailwindcss init -p
-
+```
 
 # React + Vite
 

@@ -44,6 +44,7 @@ To begin, let's set up the project and dive into the development process:
 ```bash
 npm init vite@latest 02passwordgenerator -- --template react
 cd 02passwordgenerator
+npm install
 ```
 
 -installing Tailwind CSS
@@ -51,6 +52,7 @@ cd 02passwordgenerator
 ```bash
 npm install -D tailwindcss postcss autoprefixer
 npx tailwindcss init -p
+```
 
 
 # React + Vite
